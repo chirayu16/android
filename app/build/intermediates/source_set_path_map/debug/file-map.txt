@@ -1,0 +1,17 @@
+ahmux.nutritionpoint.app-cardview-v7-28.0.0-rc01-0 C:\Users\Chirayu\.gradle\caches\transforms-3\075b31dff345a81255ec8f3b9354bf21\transformed\cardview-v7-28.0.0-rc01\res
+ahmux.nutritionpoint.app-coordinatorlayout-28.0.0-rc02-1 C:\Users\Chirayu\.gradle\caches\transforms-3\37cb7f68647dc55248798f93ce4e4f0d\transformed\coordinatorlayout-28.0.0-rc02\res
+ahmux.nutritionpoint.app-transition-28.0.0-rc01-2 C:\Users\Chirayu\.gradle\caches\transforms-3\45e84608c49370ff03a73ef8e9b6220f\transformed\transition-28.0.0-rc01\res
+ahmux.nutritionpoint.app-recyclerview-v7-28.0.0-rc01-3 C:\Users\Chirayu\.gradle\caches\transforms-3\690ca911c3068a7f2890fce05242f088\transformed\recyclerview-v7-28.0.0-rc01\res
+ahmux.nutritionpoint.app-appcompat-v7-28.0.0-rc02-4 C:\Users\Chirayu\.gradle\caches\transforms-3\70ec4072cdbc982eb0e1d88b81cb7969\transformed\appcompat-v7-28.0.0-rc02\res
+ahmux.nutritionpoint.app-support-media-compat-28.0.0-rc02-5 C:\Users\Chirayu\.gradle\caches\transforms-3\74f7f8e285099ca6b01ae9a8b4c2bad0\transformed\support-media-compat-28.0.0-rc02\res
+ahmux.nutritionpoint.app-design-28.0.0-rc01-6 C:\Users\Chirayu\.gradle\caches\transforms-3\7fd609bcae21c4c34056fa6806a22a7b\transformed\design-28.0.0-rc01\res
+ahmux.nutritionpoint.app-support-compat-28.0.0-rc02-7 C:\Users\Chirayu\.gradle\caches\transforms-3\a6f9e471c25530d6c532286fe9841bc1\transformed\support-compat-28.0.0-rc02\res
+ahmux.nutritionpoint.app-constraint-layout-1.1.3-8 C:\Users\Chirayu\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\res
+ahmux.nutritionpoint.app-pngs-9 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\generated\res\pngs\debug
+ahmux.nutritionpoint.app-resValues-10 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\generated\res\resValues\debug
+ahmux.nutritionpoint.app-rs-11 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\generated\res\rs\debug
+ahmux.nutritionpoint.app-mergeDebugResources-12 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+ahmux.nutritionpoint.app-mergeDebugResources-13 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+ahmux.nutritionpoint.app-merged_res-14 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\build\intermediates\merged_res\debug
+ahmux.nutritionpoint.app-debug-15 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\debug\res
+ahmux.nutritionpoint.app-main-16 C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\res

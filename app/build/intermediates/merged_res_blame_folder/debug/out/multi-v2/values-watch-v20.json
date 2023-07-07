@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ahmux.nutritionpoint.app-mergeDebugResources-12:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chirayu\\.gradle\\caches\\transforms-3\\70ec4072cdbc982eb0e1d88b81cb7969\\transformed\\appcompat-v7-28.0.0-rc02\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

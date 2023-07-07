@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ahmux.nutritionpoint.app-mergeDebugResources-12:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chirayu\\.gradle\\caches\\transforms-3\\70ec4072cdbc982eb0e1d88b81cb7969\\transformed\\appcompat-v7-28.0.0-rc02\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

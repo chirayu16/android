@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_green_gradient.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\green_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_help_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_help_outline_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_animation_button.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\animation_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_reminders.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_recipes.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_custom_thumb.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\custom_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_custom_progressbar.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_amber_gradient.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\amber_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_f3_layout.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\f3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "ahmux.nutritionpoint.app-merged_res-14:/layout_fragment_about.xml.flat",
+        "source": "ahmux.nutritionpoint.app-main-16:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_home.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_splash.9.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-xxhdpi\\splash.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_activity_reminders.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\activity_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_calculate.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_calculate.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_f4_layout.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\f4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_calculate.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_splash.9.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-mdpi\\splash.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_f1_layout.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\f1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_twitter.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_stat_s_controller.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-hdpi\\ic_stat_s_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_f2_layout.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\f2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_stat_s_controller.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-mdpi\\ic_stat_s_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_splash.9.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-xhdpi\\splash.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_stat_s_controller.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-xxhdpi\\ic_stat_s_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-anydpi-v21_ic_menu_facebook.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-anydpi-v21\\ic_menu_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_stat_s_controller.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-xhdpi\\ic_stat_s_controller.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xhdpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xhdpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_home.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-hdpi_splash.9.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\drawable-hdpi\\splash.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_facebook.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_menu_recipes.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_menu_recipes.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-ldpi_ic_help_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-ldpi\\ic_help_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_f5_layout.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\f5_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-xxhdpi_ic_menu_reminders.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-xxhdpi\\ic_menu_reminders.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\drawable-mdpi_ic_menu_twitter.png.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-pngs-9:\\drawable-mdpi\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-merged_res-14:\\layout_activity_api.xml.flat",
+        "source": "C:\\Users\\Chirayu\\.gradle\\daemon\\7.3.3\\ahmux.nutritionpoint.app-main-16:\\layout\\activity_api.xml"
+    }
+]

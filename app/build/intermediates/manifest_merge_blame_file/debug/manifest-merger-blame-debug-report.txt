@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ahmux.nutritionpoint"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:6:5-66
+12-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:6:22-63
+13
+14    <application
+14-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:8:5-47:19
+15        android:allowBackup="true"
+15-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0-rc02] C:\Users\Chirayu\.gradle\caches\transforms-3\a6f9e471c25530d6c532286fe9841bc1\transformed\support-compat-28.0.0-rc02\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:12:9-54
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity
+23-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:14:9-24:20
+24            android:name="ahmux.nutritionpoint.SplashActivity"
+24-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:15:13-43
+25            android:label="@string/app_name"
+25-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:16:13-45
+26            android:screenOrientation="portrait"
+26-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:17:13-49
+27            android:theme="@style/AppTheme.NoActionBar" >
+27-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:18:13-56
+28            <intent-filter>
+28-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:20:17-69
+29-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:22:17-77
+31-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:25:9-29:68
+35            android:name="ahmux.nutritionpoint.MainActivity"
+35-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:26:13-41
+36            android:label="@string/app_name"
+36-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:27:13-45
+37            android:screenOrientation="portrait"
+37-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:28:13-49
+38            android:theme="@style/AppTheme.NoActionBar" />
+38-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:29:13-56
+39        <activity
+39-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:30:9-32:58
+40            android:name="ahmux.nutritionpoint.RemindersActivity"
+40-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:31:13-46
+41            android:parentActivityName="ahmux.nutritionpoint.MainActivity" />
+41-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:32:13-55
+42
+43        <receiver
+43-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:34:9-41:20
+44            android:name="ahmux.nutritionpoint.AlarmReceiver"
+44-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:35:13-42
+45            android:enabled="true"
+45-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:36:13-35
+46            android:exported="true" >
+46-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:37:13-36
+47            <intent-filter>
+47-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:38:13-40:29
+48                <action android:name="Myaction.action" />
+48-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:39:17-58
+48-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:39:25-55
+49            </intent-filter>
+50        </receiver>
+51
+52        <activity
+52-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:43:9-45:67
+53            android:name="ahmux.nutritionpoint.ApiActivity"
+53-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:44:13-40
+54            android:parentActivityName="ahmux.nutritionpoint.MainActivity" />
+54-->C:\Users\Chirayu\Desktop\Health-Tracker-main\Healthy Diet\app\src\main\AndroidManifest.xml:45:13-55
+55    </application>
+56
+57</manifest>
